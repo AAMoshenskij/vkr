@@ -10,7 +10,7 @@
 Установка зависимостей:
 
 ```bash
-pip install numpy matplotlib
+pip install -r requirements.txt
 ```
 
 ## Инструкция по запуску
